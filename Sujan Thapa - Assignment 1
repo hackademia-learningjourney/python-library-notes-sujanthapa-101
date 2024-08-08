@@ -1,0 +1,57 @@
+Sujan Thapa - Assignment 1
+
+Pandas
+Pandas is a powerful, open-source data manipulation and analysis library for Python. 
+It provides data structures like Series (one-dimensional) and DataFrame (two-dimensional) that are designed to handle structured data efficiently. 
+Pandas is widely used for data cleaning, preparation, and analysis due to its rich set of functions for data manipulation, aggregation, and visualization.
+- Purpose: Data manipulation and analysis.
+- Key Features: DataFrames and Series for structured data.
+- Use Cases: Data cleaning, manipulation, merging, reshaping, aggregation.
+- Importance: Essential for data science and machine learning with large datasets.
+
+NumPy
+NumPy (Numerical Python) is the foundational package for numerical computing in Python. 
+It provides support for arrays, matrices, and a large number of mathematical functions to operate on these data structures.
+NumPy is essential for scientific computing, and it serves as the base for many other scientific libraries, including Pandas and TensorFlow.
+- Purpose: Scientific computing.
+- Key Features: Arrays, matrices, and mathematical functions.
+- Use Cases: Numerical computations, array operations.
+- Importance: Core library, foundational for other libraries.
+
+TensorFlow
+TensorFlow is an open-source library developed by Google for deep learning and machine learning. 
+It provides a flexible ecosystem for building and deploying machine learning models, with strong support for neural networks and deep learning. 
+TensorFlow allows for both high-level abstractions for quick model development and low-level operations for fine-tuning performance.
+- Purpose: Machine learning and deep learning.
+- Key Features: Tensor operations, computational graphs, automatic differentiation.
+- Use Cases: Building and training neural networks, large-scale machine learning models.
+- Importance: Widely used for both research and production.
+
+Keras
+Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, Theano, and PlaidML. 
+It is designed to enable fast experimentation with deep neural networks. 
+Keras provides simple and intuitive APIs for building and training neural network models, making it accessible for beginners and efficient for experts.
+- Purpose: Simplified deep learning.
+- Key Features: High-level neural networks API, supports TensorFlow.
+- Use Cases: Rapid prototyping, building and training neural networks.
+- Importance: User-friendly, enables quick experimentation.
+
+
+Scikit-learn (sklearn)
+Scikit-learn is a machine learning library in Python that provides simple and efficient tools for data mining and data analysis. 
+It is built on NumPy, SciPy, and Matplotlib. Scikit-learn offers a range of supervised and unsupervised learning algorithms, including regression, 
+classification, clustering, and dimensionality reduction, as well as tools for model evaluation and selection.
+- Purpose: Machine learning.
+- Key Features: Algorithms for classification, regression, clustering, dimensionality reduction.
+- Use Cases: Data mining, data analysis, building machine learning models.
+- Importance: Standard library for machine learning tasks.
+
+
+PyTorch
+PyTorch is an open-source deep learning library developed by Facebook's AI Research lab. 
+It provides a flexible and efficient platform for building deep learning models, with a focus on dynamic computation graphs (eager execution). 
+PyTorch is known for its ease of use, dynamic nature, and strong support for GPU acceleration. It is widely used in both academia and industry for research and production.
+- Purpose: Deep learning and machine learning.
+- Key Features: Dynamic computational graphs, tensor operations, automatic differentiation.
+- Use Cases: Building and training neural networks, research and development.
+- Importance: Popular in academia and industry for flexibility and performance.
